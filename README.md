@@ -61,12 +61,6 @@ Photoshop - Illustrator - InDesign - AfterEffect - Office (Word - Excel - PowerP
 <br/>  
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
-
-
 <br />
 
 ----
