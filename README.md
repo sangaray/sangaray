@@ -38,8 +38,8 @@ Photoshop - Illustrator - InDesign - AfterEffect - Office (Word - Excel - PowerP
 <br/>  
 
 
-<div align="center">## Connect with me</div>  
-<div align="center">
+## Connect with me 
+<div>
 <a href="https://github.com/sangaray" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
