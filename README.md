@@ -55,9 +55,6 @@ Photoshop - Illustrator - InDesign - AfterEffect - Office (Word - Excel - PowerP
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sangaray&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
 <br/>  
 
 
