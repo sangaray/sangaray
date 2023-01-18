@@ -7,19 +7,19 @@
 
 
 ### ¿Qué hago?  
-En este momento me encuentro perfeccionando mis conocimientos y trabajando en una serie de proyectos personales, para mejorar mi habilidad como programadora. Hasta ahora he dado clase de nivelación o particulares a estudiantes secundarios y ingresante a la universidad.  
+En este momento me encuentro perfeccionando mis conocimientos y trabajando en una serie de proyectos personales, para mejorar mi habilidad como programadora. Hasta ahora he dado clases de nivelación o particulares a estudiantes secundarios e ingresante a la universidad.   
   
 
 
 
 ### ¿Quién soy?  
-Soy una desarrolladara Full-Stack. Durante mi vida he pasado por muchos tipos de trabajos distintos, en diferentes rubros, pero en mi alma, desde los 13 años, mi pasión siempre fue la programación. Mi primer lenguaje fue Basic, las experiencias que tuve en mi contracto con la programación ha sido siempre lo mejor que me ha pasado.  
+Soy una desarrolladara Full-Stack, que a pesar de haber pasado for distintos tipos de trabajos, desde los 13 años siempre supe que mi pasión era la programación. Mi primer lenguaje fue Basic, las experiencias que tuve en mi contacto con la programación ha sido siempre lo mejor que me ha pasado. Hoy soy feliz por las habilidades obtenidas 
   
 
 
 
 ### ¿A dónde me dirijo?  
-Mi objetivo principal en este momento es dar un giro a mi vida, dedicándome finalmente a mi pasión, que es programar.  
+Mi objetivo principal en este momento es desarrollarme en com Full-Stack, profundizando en mis conocimientos actuales y adquiriendo nuevos conocimientos en nuevas tecnologías para poder dar soluciones a empresas que compartan sus objetivos con mi propósito de vida, lo que me permita dar el giro que deseo a mi vida, dedicándome finalmente a mi pasión, que es programar, mientras ayudo a las empresas a obtener sus metas y a mejorar la experiencia de sus usuarios
   
 
 <br/>  
