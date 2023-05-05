@@ -19,7 +19,7 @@ Soy una desarrolladara Full-Stack, que a pesar de haber pasado for distintos tip
 
 
 ### ¿A dónde me dirijo?  
-Mi objetivo principal en este momento es desarrollarme en com Full-Stack, profundizando en mis conocimientos actuales y adquiriendo nuevos conocimientos en nuevas tecnologías para poder dar soluciones a empresas que compartan sus objetivos con mi propósito de vida, lo que me permita dar el giro que deseo a mi vida, dedicándome finalmente a mi pasión, que es programar, mientras ayudo a las empresas a obtener sus metas y a mejorar la experiencia de sus usuarios
+Mi objetivo principal en este momento es desarrollarme como Full-Stack, profundizando en mis conocimientos actuales y adquiriendo nuevos conocimientos en nuevas tecnologías para poder dar soluciones a empresas que compartan sus objetivos con mi propósito de vida, lo que me permita dar el giro que deseo a mi vida, dedicándome finalmente a mi pasión, que es programar, mientras ayudo a las empresas a obtener sus metas y a mejorar la experiencia de sus usuarios
   
 
 <br/>  
