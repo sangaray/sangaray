@@ -26,7 +26,7 @@ Mi objetivo principal en este momento es desarrollarme como Full-Stack, profundi
 
 
 ## My Skill Set  
-JavaScript - CSS - HTML - ReactJS - NodeJS - Sequelize - PostgreSQL - Redux - ExpressJS - Git - Material UI - ReCharts - Tailwind  
+JavaScript - CSS - HTML - ReactJS - NodeJS - Sequelize - PostgreSQL - Redux - ExpressJS - Git - Material UI - ReCharts - Tailwind  - SQL 
   
 
 
