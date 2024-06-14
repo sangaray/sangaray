@@ -7,7 +7,7 @@
 
 
 ### ¿Qué hago?  
-En este momento me encuentro perfeccionando mis conocimientos y trabajando en una serie de proyectos personales, para mejorar mi habilidad como programadora. Hasta ahora he dado clases de nivelación o particulares a estudiantes secundarios e ingresante a la universidad.   
+En este momento me encuentro perfeccionando mis conocimientos y trabajando en una serie de proyectos personales, para mejorar mi habilidad como programadora. Hasta ahora he dado clases de nivelación o particulares a estudiantes secundarios e ingresantes a la universidad.   
   
 
 
