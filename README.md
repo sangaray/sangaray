@@ -19,7 +19,7 @@ Soy una desarrolladara Web Full-Stack, que a pesar de haber pasado por distintos
 
 
 ### ¿A dónde me dirijo?  
-Mi objetivo principal en este momento es profundicar en mi conocimiento como Full-Stack Web Developper,  y adquiriendo nuevos adquirir nuevas tecnologías para poder dar soluciones a empresas que compartan sus objetivos con mi propósito de vida y ayudarlas a alcanzar sus metas y merjorar la experiencia de sus clientes, mientras al mismo tiempo doy el giro en mi vida que siempre busqué dedicandome finalmente a mi pasión: la programación
+Mi objetivo principal en este momento es profundicar en mi conocimiento como Full-Stack Web Developper, y adquirir nuevas tecnologías para poder dar soluciones a empresas que compartan sus objetivos con mi propósito de vida y ayudarlas a alcanzar sus metas y merjorar la experiencia de sus clientes, mientras al mismo tiempo doy el giro en mi vida que siempre busqué dedicandome finalmente a mi pasión: la programación
   
 
 <br/>  
