@@ -1,7 +1,7 @@
 # <div align="center">Soy Sandra Garaycochea</div>  
   
 
-### <div align="center">Full-Stack Developer | React, JavaScript, NodeJS, CSS, Redux | Instructora</div>  
+### <div align="center">Full-Stack Developer | React, JavaScript, TypeScript, NodeJS, CSS, Redux | Instructora</div>  
   
 
 
@@ -26,8 +26,8 @@ Mi objetivo principal en este momento es profundicar en mi conocimiento como Ful
 
 
 ## My Skill Set  
-JavaScript - CSS - HTML - ReactJS - NodeJS - Sequelize - PostgreSQL - Redux - ExpressJS - Git/GitHub - Material UI - ReCharts - SQL 
-  
+JavaScript - CSS - HTML - ReactJS - NodeJS - Sequelize - PostgreSQL - Redux - ExpressJS - Git/GitHub - Material UI - ReCharts - SQL - Typescript - AJAX - JQuery - Bootstrap - Git / GitHub - Jasmine - Jest - Async / Await - Axios - Morgan - Cors - express.json - MongoDB - Mongoose
+
 
 
 
